@@ -1,0 +1,63 @@
+name: Project Board Sync
+
+on:
+  schedule:
+    # Wakes up at 53 minutes past the hour, every 12 hours
+    # This completely isolates its timeline from all your previous accounts
+    - cron: '53 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  board-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Update Sprint Backlog
+        run: |
+          # 1. CHAOS FILTER (75% chance to skip)
+          if [ $((RANDOM % 100)) -lt 75 ]; then
+            echo "Sprint review skipped for this cycle."
+            exit 0
+          fi
+
+          # 2. INITIALIZE TRACKER TABLE (If it doesn't exist yet)
+          TARGET_FILE="SPRINT_BOARD.md"
+          if [ ! -f "$TARGET_FILE" ]; then
+            echo "# Engineering Sprint Board" > "$TARGET_FILE"
+            echo "| Task ID | Date | Activity Log | Priority | Status |" >> "$TARGET_FILE"
+            echo "| --- | --- | --- | --- | --- |" >> "$TARGET_FILE"
+          fi
+
+          # 3. SCRAMBLED BOARD ENTRY GENERATOR
+          TASKS=("Review API payload structure" "Update release documentation" "Audit deployment manifests" "Clean up legacy dependencies" "Verify localization tables")
+          PRIORITIES=("Low" "Medium" "High")
+          STATUSES=("In Progress" "Under Review" "Completed")
+
+          PICKED_TASK=${TASKS[$RANDOM % ${#TASKS[@]}]}
+          PICKED_PRIORITY=${PRIORITIES[$RANDOM % ${#PRIORITIES[@]}]}
+          PICKED_STATUS=${STATUSES[$RANDOM % ${#STATUSES[@]}]}
+          TIMESTAMP=$(date +"%Y-%m-%d")
+
+          # 4. APPEND NEW ROW TO MARKDOWN TABLE
+          echo "| TSK-$((RANDOM % 9000 + 1000)) | $TIMESTAMP | $PICKED_TASK | $PICKED_PRIORITY | $PICKED_STATUS |" >> "$TARGET_FILE"
+
+          # 5. COMMIT AND PUSH
+          git config --global user.name "GREYEAST"
+          git config --global user.email "grala739@gmail.com"
+
+          # Project management flavored commit messages
+          MESSAGES=(
+            "chore: sync sprint board items"
+            "docs: log latest project milestones"
+            "docs: update agile backlog tracker"
+            "chore: refresh sprint tasks layout"
+          )
+          MSG=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
+
+          git add "$TARGET_FILE"
+          git commit -m "$MSG"
+          git push
