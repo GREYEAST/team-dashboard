@@ -10,3 +10,4 @@
 | TSK-7824 | 2026-06-02 | Review API payload structure | Low | In Progress |
 | TSK-3849 | 2026-06-04 | Clean up legacy dependencies | Medium | Completed |
 | TSK-2571 | 2026-06-06 | Review API payload structure | Medium | Under Review |
+| TSK-3389 | 2026-06-07 | Verify localization tables | Low | In Progress |
