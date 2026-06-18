@@ -14,3 +14,4 @@
 | TSK-2283 | 2026-06-12 | Clean up legacy dependencies | High | In Progress |
 | TSK-5762 | 2026-06-13 | Update release documentation | Medium | In Progress |
 | TSK-5641 | 2026-06-18 | Verify localization tables | Low | Completed |
+| TSK-1826 | 2026-06-18 | Audit deployment manifests | Medium | Under Review |
