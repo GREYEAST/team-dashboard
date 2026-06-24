@@ -16,3 +16,4 @@
 | TSK-5641 | 2026-06-18 | Verify localization tables | Low | Completed |
 | TSK-1826 | 2026-06-18 | Audit deployment manifests | Medium | Under Review |
 | TSK-8753 | 2026-06-19 | Review API payload structure | High | In Progress |
+| TSK-8400 | 2026-06-24 | Verify localization tables | High | Completed |
