@@ -21,3 +21,4 @@
 | TSK-2462 | 2026-06-26 | Verify localization tables | Medium | Completed |
 | TSK-7173 | 2026-06-28 | Verify localization tables | High | Completed |
 | TSK-1539 | 2026-07-03 | Verify localization tables | Low | In Progress |
+| TSK-2209 | 2026-07-04 | Clean up legacy dependencies | High | In Progress |
