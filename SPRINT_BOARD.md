@@ -26,3 +26,4 @@
 | TSK-4979 | 2026-07-09 | Verify localization tables | Low | Completed |
 | TSK-2899 | 2026-07-10 | Audit deployment manifests | High | In Progress |
 | TSK-2701 | 2026-07-10 | Clean up legacy dependencies | Medium | In Progress |
+| TSK-8486 | 2026-07-12 | Update release documentation | High | In Progress |
