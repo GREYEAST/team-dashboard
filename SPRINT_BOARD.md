@@ -28,3 +28,4 @@
 | TSK-2701 | 2026-07-10 | Clean up legacy dependencies | Medium | In Progress |
 | TSK-8486 | 2026-07-12 | Update release documentation | High | In Progress |
 | TSK-5577 | 2026-07-13 | Review API payload structure | High | Completed |
+| TSK-5665 | 2026-07-15 | Review API payload structure | Low | Completed |
