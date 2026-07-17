@@ -29,3 +29,4 @@
 | TSK-8486 | 2026-07-12 | Update release documentation | High | In Progress |
 | TSK-5577 | 2026-07-13 | Review API payload structure | High | Completed |
 | TSK-5665 | 2026-07-15 | Review API payload structure | Low | Completed |
+| TSK-1267 | 2026-07-17 | Verify localization tables | Medium | Under Review |
