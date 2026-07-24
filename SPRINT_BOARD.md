@@ -32,3 +32,4 @@
 | TSK-1267 | 2026-07-17 | Verify localization tables | Medium | Under Review |
 | TSK-2771 | 2026-07-20 | Verify localization tables | Low | Completed |
 | TSK-9397 | 2026-07-22 | Clean up legacy dependencies | Low | In Progress |
+| TSK-4113 | 2026-07-24 | Review API payload structure | Low | In Progress |
