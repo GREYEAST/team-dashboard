@@ -34,3 +34,4 @@
 | TSK-9397 | 2026-07-22 | Clean up legacy dependencies | Low | In Progress |
 | TSK-4113 | 2026-07-24 | Review API payload structure | Low | In Progress |
 | TSK-2612 | 2026-07-24 | Update release documentation | Low | Completed |
+| TSK-6117 | 2026-07-25 | Review API payload structure | High | Under Review |
