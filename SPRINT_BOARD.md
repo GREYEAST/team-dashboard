@@ -35,3 +35,4 @@
 | TSK-4113 | 2026-07-24 | Review API payload structure | Low | In Progress |
 | TSK-2612 | 2026-07-24 | Update release documentation | Low | Completed |
 | TSK-6117 | 2026-07-25 | Review API payload structure | High | Under Review |
+| TSK-3375 | 2026-07-29 | Review API payload structure | Medium | Under Review |
