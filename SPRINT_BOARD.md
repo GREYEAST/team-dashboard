@@ -37,3 +37,4 @@
 | TSK-6117 | 2026-07-25 | Review API payload structure | High | Under Review |
 | TSK-3375 | 2026-07-29 | Review API payload structure | Medium | Under Review |
 | TSK-9131 | 2026-08-03 | Verify localization tables | Low | Completed |
+| TSK-7283 | 2026-08-04 | Update release documentation | Medium | Completed |
