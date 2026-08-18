@@ -42,3 +42,4 @@
 | TSK-4598 | 2026-08-06 | Verify localization tables | Low | Completed |
 | TSK-5922 | 2026-08-10 | Review API payload structure | Low | In Progress |
 | TSK-1784 | 2026-08-14 | Update release documentation | Low | In Progress |
+| TSK-9915 | 2026-08-18 | Clean up legacy dependencies | High | In Progress |
