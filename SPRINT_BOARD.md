@@ -44,3 +44,4 @@
 | TSK-1784 | 2026-08-14 | Update release documentation | Low | In Progress |
 | TSK-9915 | 2026-08-18 | Clean up legacy dependencies | High | In Progress |
 | TSK-8695 | 2026-08-18 | Update release documentation | Low | Completed |
+| TSK-7194 | 2026-08-20 | Clean up legacy dependencies | Low | Under Review |
