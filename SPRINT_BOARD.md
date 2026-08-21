@@ -46,3 +46,4 @@
 | TSK-8695 | 2026-08-18 | Update release documentation | Low | Completed |
 | TSK-7194 | 2026-08-20 | Clean up legacy dependencies | Low | Under Review |
 | TSK-2527 | 2026-08-21 | Audit deployment manifests | High | In Progress |
+| TSK-8502 | 2026-08-21 | Clean up legacy dependencies | Medium | In Progress |
