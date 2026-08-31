@@ -48,3 +48,4 @@
 | TSK-2527 | 2026-08-21 | Audit deployment manifests | High | In Progress |
 | TSK-8502 | 2026-08-21 | Clean up legacy dependencies | Medium | In Progress |
 | TSK-2795 | 2026-08-24 | Review API payload structure | Medium | Completed |
+| TSK-1921 | 2026-08-31 | Review API payload structure | Low | Under Review |
