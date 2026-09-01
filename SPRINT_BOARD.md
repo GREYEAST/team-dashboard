@@ -50,3 +50,4 @@
 | TSK-2795 | 2026-08-24 | Review API payload structure | Medium | Completed |
 | TSK-1921 | 2026-08-31 | Review API payload structure | Low | Under Review |
 | TSK-4096 | 2026-08-31 | Verify localization tables | Medium | Under Review |
+| TSK-9532 | 2026-09-01 | Update release documentation | Low | Under Review |
