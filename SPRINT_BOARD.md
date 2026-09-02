@@ -52,3 +52,4 @@
 | TSK-4096 | 2026-08-31 | Verify localization tables | Medium | Under Review |
 | TSK-9532 | 2026-09-01 | Update release documentation | Low | Under Review |
 | TSK-6593 | 2026-09-01 | Audit deployment manifests | Low | Completed |
+| TSK-7349 | 2026-09-02 | Clean up legacy dependencies | Low | Completed |
