@@ -53,3 +53,4 @@
 | TSK-9532 | 2026-09-01 | Update release documentation | Low | Under Review |
 | TSK-6593 | 2026-09-01 | Audit deployment manifests | Low | Completed |
 | TSK-7349 | 2026-09-02 | Clean up legacy dependencies | Low | Completed |
+| TSK-2431 | 2026-09-04 | Audit deployment manifests | High | Under Review |
