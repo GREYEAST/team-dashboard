@@ -57,3 +57,4 @@
 | TSK-5881 | 2026-09-04 | Update release documentation | Medium | Under Review |
 | TSK-4969 | 2026-09-05 | Update release documentation | Low | In Progress |
 | TSK-2437 | 2026-09-08 | Audit deployment manifests | Low | In Progress |
+| TSK-1097 | 2026-09-10 | Review API payload structure | High | Completed |
