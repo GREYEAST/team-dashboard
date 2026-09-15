@@ -59,3 +59,4 @@
 | TSK-2437 | 2026-09-08 | Audit deployment manifests | Low | In Progress |
 | TSK-1097 | 2026-09-10 | Review API payload structure | High | Completed |
 | TSK-4167 | 2026-09-12 | Verify localization tables | High | Completed |
+| TSK-1067 | 2026-09-15 | Review API payload structure | High | In Progress |
