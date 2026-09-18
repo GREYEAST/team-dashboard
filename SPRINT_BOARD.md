@@ -64,3 +64,4 @@
 | TSK-1443 | 2026-09-17 | Update release documentation | Medium | Completed |
 | TSK-8616 | 2026-09-17 | Review API payload structure | High | Under Review |
 | TSK-9812 | 2026-09-18 | Review API payload structure | Medium | Under Review |
+| TSK-7181 | 2026-09-18 | Clean up legacy dependencies | High | In Progress |
