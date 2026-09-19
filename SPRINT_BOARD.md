@@ -65,3 +65,4 @@
 | TSK-8616 | 2026-09-17 | Review API payload structure | High | Under Review |
 | TSK-9812 | 2026-09-18 | Review API payload structure | Medium | Under Review |
 | TSK-7181 | 2026-09-18 | Clean up legacy dependencies | High | In Progress |
+| TSK-2636 | 2026-09-19 | Review API payload structure | Medium | Under Review |
