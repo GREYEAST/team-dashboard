@@ -67,3 +67,4 @@
 | TSK-7181 | 2026-09-18 | Clean up legacy dependencies | High | In Progress |
 | TSK-2636 | 2026-09-19 | Review API payload structure | Medium | Under Review |
 | TSK-5307 | 2026-09-20 | Audit deployment manifests | Medium | Completed |
+| TSK-5182 | 2026-09-23 | Audit deployment manifests | High | Under Review |
