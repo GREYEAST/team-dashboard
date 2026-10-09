@@ -69,3 +69,4 @@
 | TSK-5307 | 2026-09-20 | Audit deployment manifests | Medium | Completed |
 | TSK-5182 | 2026-09-23 | Audit deployment manifests | High | Under Review |
 | TSK-9053 | 2026-10-02 | Verify localization tables | High | Completed |
+| TSK-3710 | 2026-10-09 | Verify localization tables | High | In Progress |
