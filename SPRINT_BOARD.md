@@ -71,3 +71,4 @@
 | TSK-9053 | 2026-10-02 | Verify localization tables | High | Completed |
 | TSK-3710 | 2026-10-09 | Verify localization tables | High | In Progress |
 | TSK-6688 | 2026-10-15 | Update release documentation | High | Under Review |
+| TSK-4711 | 2026-10-16 | Audit deployment manifests | High | Completed |
