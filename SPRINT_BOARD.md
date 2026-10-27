@@ -75,3 +75,4 @@
 | TSK-2802 | 2026-10-17 | Clean up legacy dependencies | Low | Completed |
 | TSK-6537 | 2026-10-26 | Review API payload structure | High | Under Review |
 | TSK-2249 | 2026-10-27 | Update release documentation | Medium | In Progress |
+| TSK-4917 | 2026-10-27 | Verify localization tables | High | Completed |
