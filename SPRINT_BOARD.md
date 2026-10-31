@@ -77,3 +77,4 @@
 | TSK-2249 | 2026-10-27 | Update release documentation | Medium | In Progress |
 | TSK-4917 | 2026-10-27 | Verify localization tables | High | Completed |
 | TSK-7893 | 2026-10-28 | Audit deployment manifests | High | In Progress |
+| TSK-5857 | 2026-10-31 | Review API payload structure | Medium | Completed |
