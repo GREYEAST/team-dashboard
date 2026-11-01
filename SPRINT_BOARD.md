@@ -78,3 +78,4 @@
 | TSK-4917 | 2026-10-27 | Verify localization tables | High | Completed |
 | TSK-7893 | 2026-10-28 | Audit deployment manifests | High | In Progress |
 | TSK-5857 | 2026-10-31 | Review API payload structure | Medium | Completed |
+| TSK-4740 | 2026-11-01 | Audit deployment manifests | Medium | In Progress |
