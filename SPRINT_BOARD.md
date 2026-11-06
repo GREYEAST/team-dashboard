@@ -80,3 +80,4 @@
 | TSK-5857 | 2026-10-31 | Review API payload structure | Medium | Completed |
 | TSK-4740 | 2026-11-01 | Audit deployment manifests | Medium | In Progress |
 | TSK-9626 | 2026-11-05 | Update release documentation | Medium | In Progress |
+| TSK-5979 | 2026-11-06 | Update release documentation | High | Under Review |
