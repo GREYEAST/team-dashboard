@@ -83,3 +83,4 @@
 | TSK-5979 | 2026-11-06 | Update release documentation | High | Under Review |
 | TSK-3459 | 2026-11-06 | Update release documentation | High | Completed |
 | TSK-6287 | 2026-11-11 | Update release documentation | Low | Completed |
+| TSK-4492 | 2026-11-15 | Audit deployment manifests | High | In Progress |
