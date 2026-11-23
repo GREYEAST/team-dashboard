@@ -86,3 +86,4 @@
 | TSK-4492 | 2026-11-15 | Audit deployment manifests | High | In Progress |
 | TSK-6715 | 2026-11-16 | Clean up legacy dependencies | High | Under Review |
 | TSK-7305 | 2026-11-21 | Audit deployment manifests | High | In Progress |
+| TSK-7080 | 2026-11-23 | Verify localization tables | High | Completed |
