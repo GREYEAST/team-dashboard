@@ -88,3 +88,4 @@
 | TSK-7305 | 2026-11-21 | Audit deployment manifests | High | In Progress |
 | TSK-7080 | 2026-11-23 | Verify localization tables | High | Completed |
 | TSK-3633 | 2026-11-24 | Update release documentation | Medium | Under Review |
+| TSK-6660 | 2026-11-26 | Audit deployment manifests | Low | Completed |
