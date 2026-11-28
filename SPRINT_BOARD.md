@@ -90,3 +90,4 @@
 | TSK-3633 | 2026-11-24 | Update release documentation | Medium | Under Review |
 | TSK-6660 | 2026-11-26 | Audit deployment manifests | Low | Completed |
 | TSK-8831 | 2026-11-27 | Clean up legacy dependencies | Medium | In Progress |
+| TSK-6008 | 2026-11-28 | Review API payload structure | High | Under Review |
